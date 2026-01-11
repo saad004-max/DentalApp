@@ -111,9 +111,9 @@ Chaque couche communique uniquement avec la couche inférieure (respect du princ
 
 **Exemple (db.properties)** :
 ```properties
-db.url=jdbc:mysql://localhost:3306/DentalTech
+db.url=jdbc:mysql://localhost:3306/dentalsoft_db
 db.user=root
-db.password=
+db.password=rootroot
 ```
 
 ---
@@ -153,7 +153,7 @@ Chaque package contient :
 
 1. **Cloner le projet :**
    ```bash
-   git clone https://github.com/nom-utilisateur/DentalTech.git
+   git clone https://github.com/alaeazzaoui/DentalApp.git
    cd DentalTech
    ```
 
