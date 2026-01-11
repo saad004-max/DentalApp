@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/src/main/java/ma/emsi/repository/impl/AdminRepoImpl.java" value="d3160175-68cc-47f4-9e0d-2591ca11a3fb" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ma/emsi/repository/impl/MedecinRepoImpl.java" value="d3160175-68cc-47f4-9e0d-2591ca11a3fb" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ma/emsi/repository/impl/RoleRepoImpl.java" value="d3160175-68cc-47f4-9e0d-2591ca11a3fb" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ma/emsi/repository/impl/SecretaireRepoImpl.java" value="d3160175-68cc-47f4-9e0d-2591ca11a3fb" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ma/emsi/repository/impl/StaffRepoImpl.java" value="d3160175-68cc-47f4-9e0d-2591ca11a3fb" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ma/emsi/repository/impl/UserRepoImpl.java" value="d3160175-68cc-47f4-9e0d-2591ca11a3fb" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/dataBase/schema.sql" value="d3160175-68cc-47f4-9e0d-2591ca11a3fb" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/dataBase/seed.sql" value="d3160175-68cc-47f4-9e0d-2591ca11a3fb" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/d3160175-68cc-47f4-9e0d-2591ca11a3fb/console.sql" value="d3160175-68cc-47f4-9e0d-2591ca11a3fb" />
+  </component>
+</project>
